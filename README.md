@@ -1,10 +1,2 @@
-## Hi there 👋
- I write code, and hide fairy tale logic in every project.
-
-When I'm not building:
-- 🚲 By the Elbe river
-- 🎧 Listening to podcasts
-- 📖 Reading fairy tales
-  
-
+No matter where I am, I try to stay curious, optimistic, and open to new experiences.
 
